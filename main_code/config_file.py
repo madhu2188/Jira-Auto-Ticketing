@@ -1,0 +1,3 @@
+JIRA_TOKEN = ""
+JIRA_URL = ""
+SLACK_TOKEN=""
